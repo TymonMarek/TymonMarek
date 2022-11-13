@@ -3,5 +3,5 @@
 - 📖 Currently studying GCSE Computer Science.
 - 🌱 I’m currently learning C++ & C#
 - 💞️ I’m looking to collaborate on large games and software.
-- 📫 Reach me using twitter! (@)
+- 📫 Reach me using twitter! (@Tymon_Marek)
 
