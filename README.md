@@ -6,7 +6,7 @@
   />
 </p>
 
-<h1 align="center">Stack</h1>
+<h1 align="center">Technology Stack</h1>
 
 <h3 align="center">Languages</h3>
 <p align="center">
