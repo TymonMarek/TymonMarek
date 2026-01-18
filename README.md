@@ -9,6 +9,15 @@
 <hr>
 
 <!--START_SECTION:waka-->
+
+```txt
+Lua          4 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.41 %
+Python       2 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   19.35 %
+JSON         1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+TOML         1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+TypeScript   53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+```
+
 <!--END_SECTION:waka-->
 
 <hr>
