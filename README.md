@@ -6,9 +6,14 @@
   />
 </p>
 
-<h1 align="center">Technology Stack</h1>
+<hr>
 
-<h3 align="center">Languages</h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<hr>
+
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,rust,c,py,bash,lua,powershell" />
 </p>
@@ -18,17 +23,17 @@
   <img src="https://skillicons.dev/icons?i=arch,ubuntu,debian,kali,raspberrypi,linux,windows,apple" />
 </p>
 
-<h3 align="center">Technologies</h3>
+<h3 align="center">DevOps</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,nodejs,react,nextjs,svelte,bun,docker,mongodb,nginx" />
 </p>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">Developer Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=prisma,discordjs,github,gitlab,cloudflare,aws,githubactions,vscode,blender,figma,npm,obsidian,md" />
 </p>
 
-<h3 align="center">Socials</h3>
+<h3 align="center">Social Profiles</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linkedin,stackoverflow,devto,notion" />
 </p>
