@@ -8,6 +8,7 @@
 
 <hr>
 
+<h3 align="center">Statistics (Last 30 days)</h3>
 <!--START_SECTION:waka-->
 
 ```txt
