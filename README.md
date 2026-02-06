@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 86 hrs 55 mins
+Total Time: 82 hrs 51 mins
 
-Python        35 hrs 35 mins  >>>>>>>>>>===============   40.04 %
-YAML          8 hrs 58 mins   >>>======================   10.09 %
-TypeScript    8 hrs 29 mins   >>=======================   09.55 %
-TOML          7 hrs 52 mins   >>=======================   08.86 %
-JSON          6 hrs 22 mins   >>=======================   07.16 %
+Python        27 hrs          >>>>>>>>=================   31.82 %
+TypeScript    9 hrs 12 mins   >>>======================   10.84 %
+YAML          8 hrs 59 mins   >>>======================   10.60 %
+TOML          8 hrs 10 mins   >>=======================   09.64 %
+JSON          7 hrs 28 mins   >>=======================   08.81 %
 ```
 
 <!--END_SECTION:waka-->
